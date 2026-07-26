@@ -1,6 +1,6 @@
 {
   "name": "ngọn lửa nhỏ",
-  "short_name": "App: “ngọn lửa nhỏ”",
+  "short_name": "App: ngọn lửa nhỏ",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -18,6 +18,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
+  ]
 }
-
