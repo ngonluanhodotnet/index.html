@@ -1,7 +1,8 @@
 {
+  "id": "/",
   "name": "ngọn lửa nỏ",
   "short_name": "ngọn lửa nhỏ",
-  "start_url": "/",
+  "start_url": "/index.html/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
@@ -16,5 +17,14 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "screenshots": [
+    {
+      "src": "https://ngonluanhodotnet.github.io/icon/android-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
   ]
 }
+
