@@ -1,11 +1,12 @@
 {
   "name": "ngọn lửa nhỏ",
   "short_name": "ngọn lửa nhỏ",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "prefer_related_applications": false,
-  "start_url": "/?utm_source=homescreen",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
+  "description": "nhóm lên hi vọng, khơi nguồn yêu thương",
   "icons": [
     {
       "src": "https://ngonluanhodotnet.github.io/icon/android-icon-192x192.png",
@@ -18,13 +19,5 @@
       "type": "image/png"
     }
   ],
-  "screenshots": [
-    {
-      "src": "https://ngonluanhodotnet.github.io/icon/android-icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "form_factor": "wide"
-    }
-  ]
 }
 
