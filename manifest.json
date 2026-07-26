@@ -1,9 +1,9 @@
 {
-  "id": "/",
-  "name": "ngọn lửa nỏ",
+  "name": "ngọn lửa nhỏ",
   "short_name": "ngọn lửa nhỏ",
-  "start_url": "/?utm_source=homescreen",
   "display": "standalone",
+  "prefer_related_applications": false,
+  "start_url": "/?utm_source=homescreen",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
